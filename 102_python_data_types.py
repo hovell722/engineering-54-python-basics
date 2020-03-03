@@ -63,5 +63,6 @@ print(example_long_str.strip().capitalize().replace('?', '!'))
 # Create a list with individual words
 print(example_long_str.split())
 
-
+# Casting a string
+print(type(str(234)))
 
