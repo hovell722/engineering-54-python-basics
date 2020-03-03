@@ -13,6 +13,11 @@ print(book)
 datatype_of_book = type(book)
 print(datatype_of_book)
 
+# input() - prompt for user input
+# and you can add a string to the argument so it prints that before capturing the input
+# example
+input('this gets printed before capturing your input')
+
 ## Conventions
 # Lower case for variable naming with underscore
 
