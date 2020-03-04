@@ -27,7 +27,7 @@ menu[1] = menu[1].upper()
 menu[2] = menu[2].upper()
 menu[3] = menu[3].upper()
 
-print(f"Today on the menu we have {menu}.")
+print(f"Today on the menu we have {menu[0]}, {menu[1]}, {menu[2]} and {menu[3]}.")
 order_1 = input("Please tell me 1 thing you would like. ")
 order_2 = input("Give me another food order. ")
 order_3 = input("And your third dish? ")
