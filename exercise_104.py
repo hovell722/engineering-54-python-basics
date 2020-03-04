@@ -31,9 +31,9 @@ year_of_birth = today.year - age
 # Example: 'Hello Jack! Welcome, your age is 26, your eyes are green and your hair color is black.
 # print something like: 'You said you we're 28 hence you were born in 1991!'
 
-print(f"Wagwan {name.title()} {last_name.title()}, man be {age} so man was born in {year_of_birth} unless man ")
-print(f"hasn't had his bday this year, then man was born in {year_of_birth - 1}.")
-print(f"So recognisable with your {eye_colour.lower()} eyes and {hair_colour.lower()} hair. Such a strange looking {species.lower()}.")
+print(f"Hello {name.title()} {last_name.title()}, you are {age} so you were born in {year_of_birth} unless you ")
+print(f"haven't had your bday this year, then you were born in {year_of_birth - 1}.")
+print(f"You have {eye_colour.lower()} eyes and {hair_colour.lower()} hair. What a strange looking {species.lower()}.")
 
 # Section 2 - Calculate the Age difference!
 # ask user for their name and age -- store these in variables
