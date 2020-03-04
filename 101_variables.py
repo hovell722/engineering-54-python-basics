@@ -20,5 +20,3 @@ input('this gets printed before capturing your input')
 
 ## Conventions
 # Lower case for variable naming with underscore
-
-
