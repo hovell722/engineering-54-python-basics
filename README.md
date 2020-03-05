@@ -18,3 +18,23 @@ We will also learn:
     - Good Naming Conventions
     - DRY
     - Other
+    
+### 101 Variables
+
+### 102 Data Types
+
+### 103 Integers
+
+### 104 Booleans
+
+### 105 Lists
+
+### 106 Dictionaries
+
+### 107 For Loops
+
+### 108 Nested Data
+
+### 109 If Functions
+
+### 110 While Loops
