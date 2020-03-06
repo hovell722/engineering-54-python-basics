@@ -41,14 +41,12 @@ while number != 'penpinapplespen':
     number = input('Guess a number: ')
     if number.isdigit():
         number = int(number)
-        print("number")
         for n in range(1, number + 1):
-            print(n)
-            if (number % 3 == 0) and (number % 5 == 0):
+            if (n % 3 == 0) and (n % 5 == 0):
                 print("bizzzzuu")
-            elif number % 3 == 0:
+            elif n % 3 == 0:
                 print("bizz")
-            elif number % 5 == 0:
+            elif n % 5 == 0:
                 print("zzuu")
             else:
                 print(n)
